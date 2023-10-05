@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rohithkrishnap47
-- 👀 I’m interested in IoT,DataScience,CloudComputing
-- 🌱 I’m currently learning python
+- 👀 I’m interested in IoT,CloudComputing,Web Dev
+- 🌱 I’m currently learning JS
 - 📫 Reach me via rohith@i47.in
