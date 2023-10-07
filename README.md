@@ -24,6 +24,6 @@ Hello there! I'm Rohith Krishna, a passionate developer interested in IoT, Cloud
 - **Languages:** JavaScript, Python, HTML, CSS
 - **Frameworks/Libraries:** Node.js, Express.js, React.js
 - **Databases:** MongoDB, MySQL
-- **Tools:** Git, Docker, VS Code, Postman
+- **Tools:** Git, VS Code, Postman,MongoDB
 
 Feel free to explore my repositories and check out the projects I've been working on. Your feedback is valuable, so don't hesitate to open issues or pull requests if you find something interesting or want to contribute. Happy coding! 😊
