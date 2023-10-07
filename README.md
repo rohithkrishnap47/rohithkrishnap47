@@ -16,7 +16,7 @@ Hello there! I'm Rohith Krishna, a passionate developer interested in IoT, Cloud
 - 👨‍💻 Crafting beautiful and responsive web applications that make a difference.
 
 ## Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/rohithkrishnap47/)
+- [LinkedIn](https://www.linkedin.com/in/rohith-krishna-p)
 - [Twitter](https://twitter.com/rohithkrishnap)
 - [Personal Website](https://www.rohithkrishna.com/)
 
