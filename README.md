@@ -1,4 +1,4 @@
-# Welcome to Rohith's GitHub! 👋
+# Welcome to My GitHub! 👋
 
 Hello there! I'm Rohith Krishna, a passionate developer interested in IoT, Cloud Computing, and Web Development. Currently, I'm diving deep into the world of JavaScript, exploring its wonders and pushing my boundaries. Feel free to explore my repositories and projects, and don't hesitate to reach out if you have any questions or collaboration ideas.
 
@@ -45,9 +45,8 @@ Hello there! I'm Rohith Krishna, a passionate developer interested in IoT, Cloud
 - [Personal Website](https://www.rohithkrishna.com/)
 
 ## Tech Stack
-- **Languages:** JavaScript, Python, HTML, CSS
-- **Frameworks/Libraries:** Node.js, Express.js, React.js
-- **Databases:** MongoDB, MySQL
-- **Tools:** Git, VS Code, Postman,MongoDB
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
 
  Happy coding! 😊
