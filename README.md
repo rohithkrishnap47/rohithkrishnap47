@@ -2,8 +2,6 @@
 
 Hello there! I'm Rohith Krishna, a passionate developer interested in IoT, Cloud Computing, and Web Development. Currently, I'm diving deep into the world of JavaScript, exploring its wonders and pushing my boundaries. Feel free to explore my repositories and projects, and don't hesitate to reach out if you have any questions or collaboration ideas.
 
-## Hello, Nice to Meet You !!
-
 ```
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
 ████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
@@ -52,4 +50,4 @@ Hello there! I'm Rohith Krishna, a passionate developer interested in IoT, Cloud
 - **Databases:** MongoDB, MySQL
 - **Tools:** Git, VS Code, Postman,MongoDB
 
-Feel free to explore my repositories and check out the projects I've been working on. Your feedback is valuable, so don't hesitate to open issues or pull requests if you find something interesting or want to contribute. Happy coding! 😊
+ Happy coding! 😊
