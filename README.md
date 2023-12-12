@@ -2,6 +2,7 @@
 
 Hello there! I'm Rohith Krishna, a passionate developer interested in IoT, Cloud Computing, and Web Development. Currently, I'm diving deep into the world of JavaScript, exploring its wonders and pushing my boundaries. Feel free to explore my repositories and projects, and don't hesitate to reach out if you have any questions or collaboration ideas.
 
+
 ## About Me
 - 🔭 I’m currently working on exciting IoT projects.
 - 🌱 I’m currently learning JavaScript and sharpening my web development skills.
@@ -9,7 +10,7 @@ Hello there! I'm Rohith Krishna, a passionate developer interested in IoT, Cloud
 - 💬 Ask me about IoT, Cloud Computing, Web Development, or anything tech-related!
 - 📫 How to reach me: [rohith@i47.in](mailto:rohith@i47.in).
 - 💌 Personal mail: [filesrkp@gmail.com](mailto:filesrkp@gmail.com).
-
+![Animation - 1702359875987](https://github.com/rohithkrishnap47/rohithkrishnap47/assets/106670784/d8821856-4a88-44b6-8df8-964843a710fa)
 ## My Interests
 - 💡 Exploring the vast world of IoT and experimenting with connected devices.
 - ☁️ Leveraging the power of Cloud Computing to build scalable and efficient solutions.
