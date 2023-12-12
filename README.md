@@ -12,19 +12,16 @@ Hello there! I'm Rohith Krishna, a passionate developer interested in IoT, Cloud
 - 📫 How to reach me: [rohith@i47.in](mailto:rohith@i47.in).
 - 💌 Personal mail: [filesrkp@gmail.com](mailto:filesrkp@gmail.com).
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 ## My Interests
 - 💡 Exploring the vast world of IoT and experimenting with connected devices.
 - ☁️ Leveraging the power of Cloud Computing to build scalable and efficient solutions.
 - 👨‍💻 Crafting beautiful and responsive web applications that make a difference.
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/rohith-krishna-p)
 - [Twitter](https://twitter.com/rohithkrishnap)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 ## Tech Stack
 <p align="center">
