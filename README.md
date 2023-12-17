@@ -30,4 +30,4 @@ Hello there! I'm Rohith Krishna, a passionate developer interested in IoT, Cloud
 
 
 
- Happy coding! 😊
+ Happy coding :)
