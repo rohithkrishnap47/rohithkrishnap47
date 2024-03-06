@@ -2,7 +2,7 @@
 
 Hello there! I'm Rohith Krishna, a passionate developer interested in IoT, Cloud Computing, and Web Development. Currently, I'm diving deep into the world of JavaScript, exploring its wonders and pushing my boundaries. Feel free to explore my repositories and projects, and don't hesitate to reach out if you have any questions or collaboration ideas.
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="700">
 
 ## About Me
 - 🔭 I’m currently working on exciting IoT projects.
