@@ -5,7 +5,7 @@ Hello there! I'm Rohith Krishna, a passionate developer interested in IoT, Cloud
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="700">
 <div align="center">
   <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-  <lottie-player src="https://assets9.lottiefiles.com/packages/lf20_jcikwtux.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop  autoplay></lottie-player>
+  <lottie-player src="https://assets4.lottiefiles.com/packages/lf20_zrzfrxqp.json"  background="transparent"  speed="1"  style="width: 500px; height: 500px;"  loop  autoplay></lottie-player>
 </div>
 
 ## About Me
