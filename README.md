@@ -1,4 +1,4 @@
-# Welcome to My GitHub! 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Rohith !
 
 Hello there! I'm Rohith Krishna, a passionate developer interested in IoT, Cloud Computing, and Web Development. Currently, I'm diving deep into the world of JavaScript, exploring its wonders and pushing my boundaries. Feel free to explore my repositories and projects, and don't hesitate to reach out if you have any questions or collaboration ideas.
 
