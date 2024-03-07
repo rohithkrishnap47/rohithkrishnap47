@@ -1,6 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Rohith !
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Rohith !
 
-Hello there! I'm Rohith Krishna, a passionate developer interested in IoT, Cloud Computing, and Web Development. Currently, I'm diving deep into the world of JavaScript, exploring its wonders and pushing my boundaries. Feel free to explore my repositories and projects, and don't hesitate to reach out if you have any questions or collaboration ideas.
+I'm a passionate developer interested in IoT, Cloud Computing, and Web Development. Currently, I'm diving deep into the world of JavaScript, exploring its wonders and pushing my boundaries. Feel free to explore my repositories and projects, and don't hesitate to reach out if you have any questions or collaboration ideas.
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="700">
 
@@ -44,8 +44,6 @@ Hello there! I'm Rohith Krishna, a passionate developer interested in IoT, Cloud
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="tailwind" width="40" height="40"/> </a> 
   </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" alt="tailwind" width="50" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="tailwind" width="50" height="40"/> </a> </p>
-
-
 
 
  Happy coding :)
