@@ -45,4 +45,4 @@ I'm a passionate developer interested in IoT, Cloud Computing, and Web Developme
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="tailwind" width="50" height="40"/> </a> </p>
 
 
-  Happy coding :)
+  Happy coding...
