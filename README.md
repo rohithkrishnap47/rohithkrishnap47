@@ -26,7 +26,6 @@ I'm a passionate developer interested in IoT, Cloud Computing, and Web Developme
 ## Tech Stack
 <!-- <p align="center"> -->
 <!--   <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="100"> -->
-<!--   <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="100"> -->
 <!-- </p> -->
 <p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/> </a> 
