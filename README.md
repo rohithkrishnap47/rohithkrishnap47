@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Rohith Krishna P.    
-<img src="https://user-images.githubusercontent.com/74038190/215768907-8efa2be5-c07a-4edc-b1b5-23ecc775ee4a.jpg" width="200" />
-[Welcome Banner](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hi there! 👋 I'm Rohith Krishna P.    <img src="https://user-images.githubusercontent.com/74038190/215768907-8efa2be5-c07a-4edc-b1b5-23ecc775ee4a.jpg" width="200" />
+
+![Welcome Banner](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 I'm a **tech enthusiast and developer** from Kerala, currently based in Bangalore.  
 Right now, I'm diving deep into **JavaScript** and full-stack web development — building projects, learning something new every day, and pushing my boundaries.
@@ -62,3 +62,5 @@ Right now, I'm diving deep into **JavaScript** and full-stack web development �
 > I'm here to grow, share, and build — one line of code at a time.
 
 **Happy coding! 🚀**
+
+the image tag along with the name is causig some issuews can youjr set the padding etc
