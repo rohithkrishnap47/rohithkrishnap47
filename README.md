@@ -55,9 +55,8 @@ Right now, I'm diving deep into **JavaScript** and full-stack web development â€
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rohitrox/rohitrox/main/code.gif" width="500" alt="Coding animation" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
 
 ---
 
