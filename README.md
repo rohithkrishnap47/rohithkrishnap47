@@ -1,57 +1,65 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Rohith !
+# Hi there! 👋 I'm Rohith Krishna P.
 
-I'm a passionate developer interested in IoT, Cloud Computing, and Web Development. Currently, I'm diving deep into the world of JavaScript, exploring its wonders and pushing my boundaries. Feel free to explore my repositories and projects, and don't hesitate to reach out if you have any questions or collaboration ideas.
+![Welcome Banner](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="700">
+I'm a **tech enthusiast and developer** from Kerala, currently based in Bangalore.  
+Right now, I'm diving deep into **JavaScript** and full-stack web development — building projects, learning something new every day, and pushing my boundaries.
 
-## About Me
-- 🔭 I’m currently working on exciting IoT projects.
-- 🌱 I’m currently learning JavaScript and sharpening my web development skills.
-- 👯 I’m looking to collaborate on innovative and impactful open-source projects.
-- 💬 Ask me about IoT, Cloud Computing, Web Development, or anything tech-related!
-- 📫 How to reach me: [rohith@i47.in](mailto:rohith@i47.in).
-- 💌 Personal mail: [filesrkp@gmail.com](mailto:filesrkp@gmail.com).
+> 💡 “Learning by doing — one repo at a time.”
 
+---
 
-## My Interests
-- 💡 Exploring the vast world of IoT and experimenting with connected devices.
-- ☁️ Leveraging the power of Cloud Computing to build scalable and efficient solutions.
-- 👨‍💻 Crafting beautiful and responsive web applications that make a difference.
+## 🧠 About Me
 
-## Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/rohith-krishna-p)
-- [Twitter](https://twitter.com/rohithkrishnap)
+- 🔭 Currently building projects with **React.js** and the **MERN stack**
+- 🌱 Actively learning **JavaScript**, **Cloud Fundamentals**, and modern frontend practices
+- 👯 Open to collaboration on meaningful web or open-source projects
+- 💬 Let’s talk about **Web Dev**, **Cloud**, or anything tech-related
+- 📫 Reach me: [rohith@i47.in](mailto:rohith@i47.in)  
+- 💌 Personal mail: [filesrkp@gmail.com](mailto:filesrkp@gmail.com)
 
+---
 
-## Tech Stack
-<!-- <p align="center"> -->
-<!--   <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="100"> -->
-<!--   <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="100"> -->
-<!--   <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="100"> -->
-<!--   <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="100"> -->
-<!--   <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="100"> -->
-<!--   <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="100"> -->
-<!--   <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="100"> -->
-<!--   <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="100"> -->
-<!--   <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="100"> -->
-<!--   <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="100"> -->
-<!--   <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="100"> -->
-<!--   <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="100"> -->
-<!--   <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="100"> -->
-<!--   <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="100"> -->
-<!-- </p> -->
-<!-- </p> -->
-<!-- </p> -->
-<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" alt="express" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/512/github.png" alt="git" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="tailwind" width="40" height="40"/> </a> 
-  </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" alt="tailwind" width="50" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="tailwind" width="50" height="40"/> </a> </p>
+## 💻 Tech Stack & Tools
 
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+</p>
 
-  Happy coding ...
+---
+
+## 🎯 Current Focus
+
+- Building **responsive, real-world apps** with React
+- Strengthening backend knowledge with Node & MongoDB
+- Practicing deployment and hosting with **Firebase**, **Render**, and **GCP**
+- Enhancing UI/UX with **Tailwind CSS** and modern tools
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/rohith-krishna-p)
+- 🐦 [Twitter](https://twitter.com/rohithkrishnap)
+- 💻 [GitHub](https://github.com/rohithkrishna)
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="700" />
+
+---
+
+> “Code. Break. Fix. Repeat.” 🔁  
+> I'm here to grow, share, and build — one line of code at a time.
+
+**Happy coding! 🚀**
+
