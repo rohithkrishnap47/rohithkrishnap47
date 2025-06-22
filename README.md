@@ -31,7 +31,6 @@ Right now, I'm diving deep into **JavaScript** and full-stack web development �
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
 </p>
 
@@ -41,20 +40,24 @@ Right now, I'm diving deep into **JavaScript** and full-stack web development �
 
 - Building **responsive, real-world apps** with React
 - Strengthening backend knowledge with Node & MongoDB
-- Practicing deployment and hosting with **Firebase**, **Render**, and **GCP**
+- Practicing deployment and hosting with **Firebase**, **Render**, and related platforms
 - Enhancing UI/UX with **Tailwind CSS** and modern tools
 
 ---
 
 ## 🤝 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/rohith-krishna-p)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rohithkrishnap)
 - 🐦 [Twitter](https://twitter.com/rohithkrishnap)
-- 💻 [GitHub](https://github.com/rohithkrishna)
+- 💻 [GitHub](https://github.com/rohithkrishnap47)
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="700" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohitrox/rohitrox/main/code.gif" width="500" alt="Coding animation" />
+</p>
 
 ---
 
@@ -62,4 +65,3 @@ Right now, I'm diving deep into **JavaScript** and full-stack web development �
 > I'm here to grow, share, and build — one line of code at a time.
 
 **Happy coding! 🚀**
-
