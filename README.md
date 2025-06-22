@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Rohith Krishna P.
+# Hi there! 👋 I'm Rohith Krishna P.    <img src="https://user-images.githubusercontent.com/74038190/215768907-8efa2be5-c07a-4edc-b1b5-23ecc775ee4a.jpg" width="200" />
 
 ![Welcome Banner](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
